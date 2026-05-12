@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drain-browser-projectors-cruz.trycloudflare.com/vnc.html
+URL       : https://strong-nationally-fastest-blocking.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-11 21:20:29
+Created   : 2026-05-12 02:58:02
 =======================================================
