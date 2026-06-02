@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://smart-improved-baseline-tribe.trycloudflare.com/vnc.html
+URL       : https://youth-res-costume-massive.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-01 22:36:00
+Created   : 2026-06-02 03:59:54
 =======================================================
