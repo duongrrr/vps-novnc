@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://someone-goto-threshold-hydrogen.trycloudflare.com/vnc.html
+URL       : https://browse-speeds-flame-pledge.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-03 18:45:46
+Created   : 2026-06-03 22:30:39
 =======================================================
