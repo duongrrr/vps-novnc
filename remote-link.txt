@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://introducing-licensing-lately-eyes.trycloudflare.com/vnc.html
+URL       : https://coated-caring-versus-relevance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-05 21:28:48
+Created   : 2026-06-06 03:30:15
 =======================================================
