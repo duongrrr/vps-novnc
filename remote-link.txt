@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://activity-bee-association-jewel.trycloudflare.com/vnc.html
+URL       : https://criticism-brochure-lab-puerto.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-07 11:50:12
+Created   : 2026-06-07 16:18:32
 =======================================================
