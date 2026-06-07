@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://drug-way-cognitive-twisted.trycloudflare.com/vnc.html
+URL       : https://looking-pads-aging-processing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 21:06:56
+Created   : 2026-06-07 03:57:05
 =======================================================
