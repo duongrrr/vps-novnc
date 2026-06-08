@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://enrollment-residents-gilbert-latex.trycloudflare.com/vnc.html
+URL       : https://ottawa-models-titled-unavailable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-07 21:15:03
+Created   : 2026-06-08 04:03:49
 =======================================================
