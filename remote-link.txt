@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://highlight-desired-noble-changelog.trycloudflare.com/vnc.html
+URL       : https://champion-pays-elect-relief.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 04:12:59
+Created   : 2026-06-17 09:32:12
 =======================================================
