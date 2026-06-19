@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://methodology-writings-logo-stay.trycloudflare.com/vnc.html
+URL       : https://restored-installation-bride-thehun.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 09:30:19
+Created   : 2026-06-19 13:37:09
 =======================================================
