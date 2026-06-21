@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://vault-swimming-icons-pierce.trycloudflare.com/vnc.html
+URL       : https://enforcement-logos-aaron-due.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 04:13:22
+Created   : 2026-06-21 09:00:01
 =======================================================
