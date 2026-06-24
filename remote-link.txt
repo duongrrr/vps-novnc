@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://requiring-movements-wind-refrigerator.trycloudflare.com/vnc.html
+URL       : https://louise-mapping-camp-regardless.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-23 21:45:38
+Created   : 2026-06-24 03:35:52
 =======================================================
