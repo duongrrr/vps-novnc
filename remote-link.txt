@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contract-broadband-engines-nato.trycloudflare.com/vnc.html
+URL       : https://west-suzuki-specifications-constitution.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-02 08:13:11
+Created   : 2026-07-02 12:11:30
 =======================================================
