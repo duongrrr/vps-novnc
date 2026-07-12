@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://then-partner-patches-awareness.trycloudflare.com/vnc.html
+URL       : https://storage-changing-magnificent-other.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-11 20:48:43
+Created   : 2026-07-12 02:44:41
 =======================================================
