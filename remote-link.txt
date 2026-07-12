@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://storage-changing-magnificent-other.trycloudflare.com/vnc.html
+URL       : https://merger-glucose-objective-including.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 02:44:41
+Created   : 2026-07-12 07:30:49
 =======================================================
