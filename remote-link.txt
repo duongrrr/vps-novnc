@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tonight-arm-test-dock.trycloudflare.com/vnc.html
+URL       : https://historic-publicly-moving-thickness.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-13 21:00:30
+Created   : 2026-07-14 02:29:35
 =======================================================
