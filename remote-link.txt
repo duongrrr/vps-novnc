@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://earned-shops-mounting-nickname.trycloudflare.com/vnc.html
+URL       : https://debian-motels-remember-house.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-16 07:24:29
+Created   : 2026-07-16 11:41:05
 =======================================================
