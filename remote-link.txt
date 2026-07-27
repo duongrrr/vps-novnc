@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://allocated-info-stored-explicit.trycloudflare.com/vnc.html
+URL       : https://devel-presenting-funny-attached.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-27 16:59:29
+Created   : 2026-07-27 21:11:47
 =======================================================
