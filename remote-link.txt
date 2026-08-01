@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stage-identical-stories-sen.trycloudflare.com/vnc.html
+URL       : https://organizational-terminals-consumer-student.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 07:29:27
+Created   : 2026-08-01 11:18:36
 =======================================================
