@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://explaining-violation-element-vista.trycloudflare.com/vnc.html
+URL       : https://beds-frederick-brings-integrated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-04 07:40:56
+Created   : 2026-08-04 21:14:28
 =======================================================
