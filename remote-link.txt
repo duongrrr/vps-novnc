@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://suggested-elizabeth-congratulations-bold.trycloudflare.com/vnc.html
+URL       : https://avatar-enterprises-red-newer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 05:33:30
+Created   : 2026-08-21 10:31:42
 =======================================================
