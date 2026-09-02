@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arrivals-declare-watershed-specified.trycloudflare.com/vnc.html
+URL       : https://think-districts-takes-switch.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 14:09:28
+Created   : 2026-09-02 22:25:49
 =======================================================
