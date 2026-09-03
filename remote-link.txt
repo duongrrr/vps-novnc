@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://think-districts-takes-switch.trycloudflare.com/vnc.html
+URL       : https://guardian-ericsson-icq-metallica.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 22:25:49
+Created   : 2026-09-03 03:10:29
 =======================================================
