@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dns-soccer-prospects-correlation.trycloudflare.com/vnc.html
+URL       : https://applied-beings-instance-sandwich.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 19:47:43
+Created   : 2026-10-02 23:36:48
 =======================================================
